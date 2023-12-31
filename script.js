@@ -30,7 +30,7 @@ setTimeout(function name(params) {
                       ten.textContent = "1 🥳";
                       setTimeout(function name(params) {
                         const ans = (document.querySelector("#span-1").innerText =
-                          "Happy NewYear Da Shobana 🥳");
+                          "Happy NewYear 🥳");
                       }, 1000);
                     }, 1000);
                   }, 1000);
